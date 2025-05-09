@@ -1,0 +1,30 @@
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\bin\Debug\NNNumber.exe.config
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\bin\Debug\NNNumber.exe
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\bin\Debug\NNNumber.pdb
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\bin\Debug\NeuralNetwork.pdb
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.AssemblyReference.cache
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.CoreCompileInputs.cache
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.Up2Date
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\obj\Debug\NNNumber.exe
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\obj\Debug\NNNumber.pdb
+C:\Main\C#\Complete\NNNumber\NNTrain\NNTrain\bin\Debug\NeuralNetwork.dll
+C:\Main\Github\NNNumber\NNTrain\NNTrain\bin\Debug\NNNumber.exe.config
+C:\Main\Github\NNNumber\NNTrain\NNTrain\bin\Debug\NNNumber.exe
+C:\Main\Github\NNNumber\NNTrain\NNTrain\bin\Debug\NNNumber.pdb
+C:\Main\Github\NNNumber\NNTrain\NNTrain\bin\Debug\NeuralNetwork.dll
+C:\Main\Github\NNNumber\NNTrain\NNTrain\bin\Debug\NeuralNetwork.pdb
+C:\Main\Github\NNNumber\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.AssemblyReference.cache
+C:\Main\Github\NNNumber\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.CoreCompileInputs.cache
+C:\Main\Github\NNNumber\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.Up2Date
+C:\Main\Github\NNNumber\NNTrain\NNTrain\obj\Debug\NNNumber.exe
+C:\Main\Github\NNNumber\NNTrain\NNTrain\obj\Debug\NNNumber.pdb
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\bin\Debug\NNNumber.exe.config
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\bin\Debug\NNNumber.exe
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\bin\Debug\NNNumber.pdb
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\bin\Debug\NeuralNetwork.dll
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\bin\Debug\NeuralNetwork.pdb
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.AssemblyReference.cache
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.CoreCompileInputs.cache
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\obj\Debug\NNTrain.csproj.Up2Date
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\obj\Debug\NNNumber.exe
+C:\Main\Github\NNNumber\Source code\NNTrain\NNTrain\obj\Debug\NNNumber.pdb

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\drawnumber.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\drawnumber.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\scripts\\gameobject\\buttonnnget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\scripts\\gameobject\\buttonnnget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\scripts\\gameobject\\buttonnncreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\scripts\\gameobject\\buttonnncreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\scripts\\gameobject\\nnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\scripts\\gameobject\\nnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\scripts\\scenemanager\\scenemainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\scripts\\scenemanager\\scenemainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\scripts\\basy\\globals\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\scripts\\basy\\globals\\global.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|c:\\main\\c#\\complete\\nnnumber\\drawnumber\\drawnumber\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|DrawNumber\\DrawNumber.csproj|solutionrelative:drawnumber\\scripts\\gamemanager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DrawNumber",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\DrawNumber.csproj",
+              "RelativeDocumentMoniker": "DrawNumber\\DrawNumber.csproj",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\DrawNumber.csproj",
+              "RelativeToolTip": "DrawNumber\\DrawNumber.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T10:42:18.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ButtonNNGet.cs",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "RelativeDocumentMoniker": "DrawNumber\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "RelativeToolTip": "DrawNumber\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:24:52.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonNNCreate.cs",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "RelativeDocumentMoniker": "DrawNumber\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "RelativeToolTip": "DrawNumber\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:24:46.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NNetwork.cs",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameObject\\NNetwork.cs",
+              "RelativeDocumentMoniker": "DrawNumber\\Scripts\\GameObject\\NNetwork.cs",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameObject\\NNetwork.cs",
+              "RelativeToolTip": "DrawNumber\\Scripts\\GameObject\\NNetwork.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:23:47.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Game1.cs",
+              "RelativeDocumentMoniker": "DrawNumber\\Game1.cs",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Game1.cs",
+              "RelativeToolTip": "DrawNumber\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:21:34.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeDocumentMoniker": "DrawNumber\\Scripts\\GameManager\\GameManager.cs",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\GameManager\\GameManager.cs",
+              "RelativeToolTip": "DrawNumber\\Scripts\\GameManager\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T06:38:19.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneMainManager.cs",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "RelativeDocumentMoniker": "DrawNumber\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "RelativeToolTip": "DrawNumber\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T05:31:38.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Global.cs",
+              "DocumentMoniker": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\Basy\\Globals\\Global.cs",
+              "RelativeDocumentMoniker": "DrawNumber\\Scripts\\Basy\\Globals\\Global.cs",
+              "ToolTip": "C:\\Main\\C#\\Complete\\NNNumber\\DrawNumber\\DrawNumber\\Scripts\\Basy\\Globals\\Global.cs",
+              "RelativeToolTip": "DrawNumber\\Scripts\\Basy\\Globals\\Global.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T02:40:53.509Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

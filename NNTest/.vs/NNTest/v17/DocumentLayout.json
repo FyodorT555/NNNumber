@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Main\\Github\\NNNumber\\NNTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\scenemanager\\scenemainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\scenemanager\\scenemainmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\buttonfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\buttonfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\buttonfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\buttonfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\buttonclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\buttonclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\buttondrawwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\buttondrawwash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\buttonnncreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\buttonnncreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\buttonnnget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\buttonnnget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\textfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\textfilename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\nnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\nnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|c:\\main\\github\\nnnumber\\nntest\\nntest\\scripts\\gameobject\\predictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD68DF0-0917-4DFC-81EE-F4C880E93590}|NNTest\\NNTest.csproj|solutionrelative:nntest\\scripts\\gameobject\\predictions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Game1.cs",
+              "RelativeDocumentMoniker": "NNTest\\Game1.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Game1.cs",
+              "RelativeToolTip": "NNTest\\Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:07:57.363Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SceneMainManager.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\SceneManager\\SceneMainManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:07:42.249Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ButtonClear.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonClear.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\ButtonClear.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonClear.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\ButtonClear.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:43:16.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ButtonDrawWash.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonDrawWash.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\ButtonDrawWash.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonDrawWash.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\ButtonDrawWash.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:42:59.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonField.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonField.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\ButtonField.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonField.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\ButtonField.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:09:48.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ButtonFileName.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonFileName.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\ButtonFileName.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonFileName.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\ButtonFileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:41:24.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ButtonNNCreate.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\ButtonNNCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:42:19.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ButtonNNGet.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\ButtonNNGet.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:39:33.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TextFileName.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\TextFileName.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\TextFileName.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\TextFileName.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\TextFileName.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:34:06.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Predictions.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\Predictions.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\Predictions.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\Predictions.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\Predictions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T03:44:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NNetwork.cs",
+              "DocumentMoniker": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\NNetwork.cs",
+              "RelativeDocumentMoniker": "NNTest\\Scripts\\GameObject\\NNetwork.cs",
+              "ToolTip": "C:\\Main\\Github\\NNNumber\\NNTest\\NNTest\\Scripts\\GameObject\\NNetwork.cs",
+              "RelativeToolTip": "NNTest\\Scripts\\GameObject\\NNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T07:11:37.655Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

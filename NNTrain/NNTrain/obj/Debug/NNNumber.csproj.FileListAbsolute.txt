@@ -1,0 +1,27 @@
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\NNNumber\NNNumber\bin\Debug\NNNumber.exe.config
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\NNNumber\NNNumber\bin\Debug\NNNumber.exe
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\NNNumber\NNNumber\bin\Debug\NNNumber.pdb
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.AssemblyReference.cache
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.CoreCompileInputs.cache
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.exe
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\bin\Debug\NNNumber.exe.config
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\bin\Debug\NNNumber.exe
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\bin\Debug\NNNumber.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.AssemblyReference.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.CoreCompileInputs.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.exe
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\bin\Debug\NeuralNetwork.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\bin\Debug\NeuralNetwork.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.Up2Date
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\bin\Debug\NNNumber.exe.config
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\bin\Debug\NNNumber.exe
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\bin\Debug\NNNumber.pdb
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\bin\Debug\NeuralNetwork.dll
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\bin\Debug\NeuralNetwork.pdb
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.AssemblyReference.cache
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.CoreCompileInputs.cache
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\obj\Debug\NNNumber.csproj.Up2Date
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\obj\Debug\NNNumber.exe
+C:\Main\Visual Studio\C#\Console\NNNumber\NNNumber\obj\Debug\NNNumber.pdb

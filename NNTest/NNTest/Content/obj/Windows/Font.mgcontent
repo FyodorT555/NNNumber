@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>H:/Рабочий стол 10.02.2023/Программы фёдора/CSarp/DrawNumber/DrawNumber/Content/File.spritefont</SourceFile>
+  <SourceTime>2022-07-26T20:44:10+09:00</SourceTime>
+  <DestFile>H:/Рабочий стол 10.02.2023/Программы фёдора/CSarp/DrawNumber/DrawNumber/Content/bin/Windows/Font.xnb</DestFile>
+  <DestTime>2024-09-22T14:44:40.7938433+09:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T20:44:56+09:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T20:44:56+09:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

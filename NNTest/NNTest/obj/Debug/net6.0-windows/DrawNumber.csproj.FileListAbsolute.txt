@@ -1,0 +1,143 @@
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.exe
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.deps.json
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.runtimeconfig.json
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.pdb
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.AssemblyReference.cache
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.GeneratedMSBuildEditorConfig.editorconfig
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.AssemblyInfoInputs.cache
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.AssemblyInfo.cs
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.CoreCompileInputs.cache
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.Up2Date
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\refint\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.pdb
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.genruntimeconfig.cache
+H:\Рабочий стол 10.02.2023\Программы фёдора\CSarp\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\ref\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Field.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Font.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.exe
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.deps.json
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.runtimeconfig.json
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.AssemblyReference.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.GeneratedMSBuildEditorConfig.editorconfig
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.AssemblyInfoInputs.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.AssemblyInfo.cs
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.CoreCompileInputs.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.Up2Date
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\refint\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.genruntimeconfig.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\ref\DrawNumber.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Collider.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\OffActive.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\OnActive.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\NeuralNetwork.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\NeuralNetwork.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\g1.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\g2.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button1.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button2.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button3.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button4.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button5.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button7.xnb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\Monogame\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\SmallFont.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.AssemblyReference.cache
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.AssemblyInfoInputs.cache
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.AssemblyInfo.cs
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.CoreCompileInputs.cache
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\refint\DrawNumber.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.pdb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button1.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button2.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button3.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button4.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button5.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Button7.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Collider.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Field.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\Font.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\g1.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\g2.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\OffActive.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\OnActive.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Content\SmallFont.xnb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.exe
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.deps.json
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.runtimeconfig.json
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\DrawNumber.pdb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\NeuralNetwork.dll
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\bin\Debug\net6.0-windows\NeuralNetwork.pdb
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.csproj.Up2Date
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\DrawNumber.genruntimeconfig.cache
+C:\Main\C#\Complete\NNNumber\DrawNumber\DrawNumber\obj\Debug\net6.0-windows\ref\DrawNumber.dll

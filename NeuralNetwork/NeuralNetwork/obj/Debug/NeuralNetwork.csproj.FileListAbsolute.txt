@@ -1,0 +1,18 @@
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+H:\Рабочий стол 10.02.2023\Programms Fyodor's\CSarp\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Main\C#\Library\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Main\C#\Library\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Main\C#\Library\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Main\C#\Library\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Main\C#\Library\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Main\C#\Library\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Main\Github\NNNumber\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.dll
+C:\Main\Github\NNNumber\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Main\Github\NNNumber\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.AssemblyReference.cache
+C:\Main\Github\NNNumber\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.csproj.CoreCompileInputs.cache
+C:\Main\Github\NNNumber\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.dll
+C:\Main\Github\NNNumber\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Button1.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Button2.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Button3.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Button4.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Button5.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Button7.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/field.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/File.spritefont</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/g1.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/g2.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/SmallFont.spritefont</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Untitled 10-02-2024 03-18-53 (1).png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Untitled 10-02-2024 03-18-53.png</File>
+    <File>C:/Main/Github/NNNumber/NNTest/NNTest/Content/Untitled 10-02-2024 03-21-50 (1).png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Button1</File>
+    <File>Button2</File>
+    <File>Button3</File>
+    <File>Button4</File>
+    <File>Button5</File>
+    <File>Button7</File>
+    <File>Field</File>
+    <File>Font</File>
+    <File>g1</File>
+    <File>g2</File>
+    <File>SmallFont</File>
+    <File>OffActive</File>
+    <File>OnActive</File>
+    <File>Collider</File>
+  </DestFiles>
+</SourceFileCollection>
